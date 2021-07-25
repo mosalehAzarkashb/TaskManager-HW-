@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1626552605 source:c:\users\lenovo\desktop\taskmanager\task.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	"Task.h"
+	"Time.h"
+	<charconv>
+
+1626589492 source:c:\users\lenovo\desktop\taskmanager\main.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	<string>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<exception>
+	<fstream>
+	"Time.h"
+	"Task.h"
+	"Month.h"
+	"Day.h"
+	"Date.h"
+	"Yearbook.h"
+	"Employee.h"
+	"Manager.h"
+
+1626532741 source:c:\users\lenovo\desktop\taskmanager\time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+
+1626548090 c:\users\lenovo\desktop\taskmanager\time.h
+	<exception>
+
+1626553398 c:\users\lenovo\desktop\taskmanager\task.h
+	<string>
+	"Time.h"
+	"Date.h"
+	"Employee.h"
+	"Task.h"
+
+1626523915 c:\users\lenovo\desktop\taskmanager\day.h
+	<vector>
+	"Task.h"
+	"Time.h"
+
+1626510332 c:\users\lenovo\desktop\taskmanager\month.h
+	"Day.h"
+
+1626529519 source:c:\users\lenovo\desktop\taskmanager\date.cpp
+	"Date.h"
+	<stdexcept>
+	<iostream>
+	<iomanip>
+
+1626526861 c:\users\lenovo\desktop\taskmanager\date.h
+	<iostream>
+	<iomanip>
+
+1626517085 c:\users\lenovo\desktop\taskmanager\yearbook.h
+	"Month.h"
+
+1626544514 source:c:\users\lenovo\desktop\taskmanager\employee.cpp
+	<iostream>
+	<iomanip>
+	"Employee.h"
+
+1626544454 c:\users\lenovo\desktop\taskmanager\employee.h
+	<iostream>
+	<iomanip>
+	<string.h>
+	<vector>
+	"Time.h"
+	"Task.h"
+
+1626554560 c:\users\lenovo\desktop\taskmanager\manager.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<string>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<exception>
+	<fstream>
+	"Time.h"
+	"Task.h"
+	"Month.h"
+	"Day.h"
+	"Date.h"
+	"Yearbook.h"
+	"Employee.h"
+
